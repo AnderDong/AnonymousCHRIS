@@ -7,6 +7,11 @@
 ![Avatar 01 Clothed](img/h1_cloth.png)
 ![Avatar 01](img/h1.png)
 
+<video width=30% height=30% autoplay loop muted>
+  <source src="https://www.youtube.com/watch?v=MayKWmd6k7A" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 [![**Robot HipHop dance**](https://img.youtube.com/vi/MayKWmd6k7A/0.jpg)](https://www.youtube.com/watch?v=MayKWmd6k7A)
 
 ![**Robot HipHop dance**](https://github.com/AnderDong/AnonymousCHRIS/blob/main/video/H1_Baseball_Hit.mp4)  

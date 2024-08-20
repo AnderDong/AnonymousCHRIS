@@ -4,161 +4,54 @@
 
 ### Avatar 01
 
-<div style="display: flex; justify-content: center; align-items: center;">
-    <img src="img/h1_cloth.png" alt="Left Image" style="width: 30%; height: 30%;">
-    <div style="width: 15%;"></div> <!-- 用于中间间隔 15% 屏幕宽度 -->
-    <img src="img/h1.png" alt="Right Image" style="width: 30%; height: 30%;">
-</div>
-<div style="display: flex; justify-content: space-between;">
-    <div style="text-align: center; width: 30%;">
-        <video width="100%" src="video/H1_Robot_HipHop_dance.mp4" autoplay muted loop>
-            <!-- <source src="video/H1_Robot_HipHop_dance.mp4" type="video/mp4"> -->
-            Your browser does not support the video tag.
-        </video>
-        <p style="text-align: center;"><em>Robot HipHop dance</em></p>
-    </div>
-    <div style="text-align: center; width: 30%;">
-        <video width="100%" autoplay muted loop>
-            <source src="video/H1_Swimming.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
-        <p style="text-align: center;"><em>Swimming</em></p>
-    </div>
-    <div style="text-align: center; width: 30%;">
-        <video width="100%" autoplay muted loop>
-            <source src="video/H1_Throw_Grenade.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
-        <p style="text-align: center;"><em>Throw Grenade</em></p>
-    </div>
-</div>
-<div style="display: flex; justify-content: space-between;">
-    <div style="text-align: center; width: 30%;">
-        <video width="100%" autoplay muted loop>
-            <source src="video/H1_Baseball_Hit.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
-        <p style="text-align: center;"><em>Baseball Hit</em></p>
-    </div>
-    <div style="text-align: center; width: 30%;">
-        <video width="100%" autoplay muted loop>
-            <source src="video/H1_Falling_To_Roll.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
-        <p style="text-align: center;"><em>Falling To Roll</em></p>
-    </div>
-    <div style="text-align: center; width: 30%;">
-        <video width="100%" autoplay muted loop>
-            <source src="video/H1_Kidney_Hit.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
-        <p style="text-align: center;"><em>Kidney Hit</em></p>
-    </div>
-</div>
+![Avatar 01 Clothed](img/h1_cloth.png)
+![Avatar 01](img/h1.png)
+
+- [**Robot HipHop dance**](video/H1_Robot_HipHop_dance.mp4)  
+  *Robot HipHop dance*
+- [**Swimming**](video/H1_Swimming.mp4)  
+  *Swimming*
+- [**Throw Grenade**](video/H1_Throw_Grenade.mp4)  
+  *Throw Grenade*
+- [**Baseball Hit**](video/H1_Baseball_Hit.mp4)  
+  *Baseball Hit*
+- [**Falling To Roll**](video/H1_Falling_To_Roll.mp4)  
+  *Falling To Roll*
+- [**Kidney Hit**](video/H1_Kidney_Hit.mp4)  
+  *Kidney Hit*
 
 ### Avatar 02
-<div style="display: flex; justify-content: center; align-items: center;">
-    <img src="img/h2_cloth.png" alt="Left Image" style="width: 30%; height: 30%;">
-    <div style="width: 15%;"></div> <!-- 用于中间间隔 15% 屏幕宽度 -->
-    <img src="img/h2.png" alt="Right Image" style="width: 30%; height: 30%;">
-</div>
-<div style="display: flex; justify-content: space-between;">
-    <div style="text-align: center; width: 30%;">
-        <video width="100%" autoplay muted loop>
-            <source src="video/H2_Falling.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
-        <p style="text-align: center;"><em>Falling</em></p>
-    </div>
-    <div style="text-align: center; width: 30%;">
-        <video width="100%" autoplay muted loop>
-            <source src="video/H2_Illegal_Elbow_Punch.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
-        <p style="text-align: center;"><em>Illegal Elbow Punch</em></p>
-    </div>
-    <div style="text-align: center; width: 30%;">
-        <video width="100%" autoplay muted loop>
-            <source src="video/H2_Sitting_Thumbs_Up.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
-        <p style="text-align: center;"><em>Sitting Thumbs Up</em></p>
-    </div>
-</div>
-<div style="display: flex; justify-content: space-between;">
-    <div style="text-align: center; width: 30%;">
-        <video width="100%" autoplay muted loop>
-            <source src="video/H2_Spin_In_Place.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
-        <p style="text-align: center;"><em>Spin In Place</em></p>
-    </div>
-    <div style="text-align: center; width: 30%;">
-        <video width="100%" autoplay muted loop>
-            <source src="video/H2_Strafe.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
-        <p style="text-align: center;"><em>Strafe</em></p>
-    </div>
-    <div style="text-align: center; width: 30%;">
-        <video width="100%" autoplay muted loop>
-            <source src="video/H2_Zombie_Stand_Up.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
-        <p style="text-align: center;"><em>Zombie Stand Up</em></p>
-    </div>
-</div>
+
+![Avatar 02 Clothed](img/h2_cloth.png)
+![Avatar 02](img/h2.png)
+
+- [**Falling**](video/H2_Falling.mp4)  
+  *Falling*
+- [**Illegal Elbow Punch**](video/H2_Illegal_Elbow_Punch.mp4)  
+  *Illegal Elbow Punch*
+- [**Sitting Thumbs Up**](video/H2_Sitting_Thumbs_Up.mp4)  
+  *Sitting Thumbs Up*
+- [**Spin In Place**](video/H2_Spin_In_Place.mp4)  
+  *Spin In Place*
+- [**Strafe**](video/H2_Strafe.mp4)  
+  *Strafe*
+- [**Zombie Stand Up**](video/H2_Zombie_Stand_Up.mp4)  
+  *Zombie Stand Up*
 
 ### Avatar 03
 
-<div style="display: flex; justify-content: center; align-items: center;">
-    <img src="img/h3_cloth.png" alt="Left Image" style="width: 30%; height: 30%;">
-    <div style="width: 15%;"></div> <!-- 用于中间间隔 15% 屏幕宽度 -->
-    <img src="img/h3.png" alt="Right Image" style="width: 30%; height: 30%;">
-</div>
-<div style="display: flex; justify-content: space-between;">
-    <div style="text-align: center; width: 30%;">
-        <video width="100%" autoplay muted loop>
-            <source src="video/H3_Fall_Flat.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
-        <p style="text-align: center;"><em>Fall Flat</em></p>
-    </div>
-    <div style="text-align: center; width: 30%;">
-        <video width="100%" autoplay muted loop>
-            <source src="video/H3_Hard_Landing.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
-        <p style="text-align: center;"><em>Hard Landing</em></p>
-    </div>
-    <div style="text-align: center; width: 30%;">
-        <video width="100%" autoplay muted loop>
-            <source src="video/H3_Jumping_Down.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
-        <p style="text-align: center;"><em>Jumping Down</em></p>
-    </div>
-</div>
-<div style="display: flex; justify-content: space-between;">
-    <div style="text-align: center; width: 30%;">
-        <video width="100%" autoplay muted loop>
-            <source src="video/H3_Seated_Idle.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
-        <p style="text-align: center;"><em>Seated Idle</em></p>
-    </div>
-    <div style="text-align: center; width: 30%;">
-        <video width="100%" autoplay muted loop>
-            <source src="video/H3_Running_Jump.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
-        <p style="text-align: center;"><em>Running Jump</em></p>
-    </div>
-    <div style="text-align: center; width: 30%;">
-        <video width="100%" autoplay muted loop>
-            <source src="video/H3_Silly_Dancing.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
-        <p style="text-align: center;"><em>Silly Dancing</em></p>
-    </div>
-</div>
+![Avatar 03 Clothed](img/h3_cloth.png)
+![Avatar 03](img/h3.png)
+
+- [**Fall Flat**](video/H3_Fall_Flat.mp4)  
+  *Fall Flat*
+- [**Hard Landing**](video/H3_Hard_Landing.mp4)  
+  *Hard Landing*
+- [**Jumping Down**](video/H3_Jumping_Down.mp4)  
+  *Jumping Down*
+- [**Seated Idle**](video/H3_Seated_Idle.mp4)  
+  *Seated Idle*
+- [**Running Jump**](video/H3_Running_Jump.mp4)  
+  *Running Jump*
+- [**Silly Dancing**](video/H3_Silly_Dancing.mp4)  
+  *Silly Dancing*

@@ -11,8 +11,8 @@
 </div>
 <div style="display: flex; justify-content: space-between;">
     <div style="text-align: center; width: 30%;">
-        <video width="100%" autoplay muted loop>
-            <source src="video/H1_Robot_HipHop_dance.mp4" type="video/mp4">
+        <video width="100%" src="video/H1_Robot_HipHop_dance.mp4" autoplay muted loop>
+            <!-- <source src="video/H1_Robot_HipHop_dance.mp4" type="video/mp4"> -->
             Your browser does not support the video tag.
         </video>
         <p style="text-align: center;"><em>Robot HipHop dance</em></p>

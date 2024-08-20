@@ -7,6 +7,8 @@
 ![Avatar 01 Clothed](img/h1_cloth.png)
 ![Avatar 01](img/h1.png)
 
+[![**Robot HipHop dance**](https://img.youtube.com/vi/MayKWmd6k7A/0.jpg)](https://www.youtube.com/watch?v=MayKWmd6k7A)
+
 ![**Robot HipHop dance**](https://github.com/AnderDong/AnonymousCHRIS/blob/main/video/H1_Baseball_Hit.mp4)  
   *Robot HipHop dance*
 - [**Swimming**](video/H1_Swimming.mp4)  

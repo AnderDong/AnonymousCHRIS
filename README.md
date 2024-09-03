@@ -6,10 +6,6 @@
 
 ![Avatar 01 Clothed](img/h1_cloth.png)
 ![Avatar 01](img/h1.png)
-<video width=30% height=30%>
-  <source src="https://www.youtube.com/watch?v=MayKWmd6k7A" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 - [**Robot HipHop dance**](video/H1_Robot_HipHop_dance.mp4)  
   *Robot HipHop dance*

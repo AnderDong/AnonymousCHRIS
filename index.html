@@ -101,7 +101,7 @@
           </figure>
           <div class="content has-text-justified">
             <p>
-              Overview of our CHRIS. Conditioned on a single-view image I and the corresponding SMPL-X M, we sample 3D points P, obtaining their features regarding the geometry of the 3D clothed human. Then, we obtain the SDF Sˆ and the corresponding side-view normal maps ˆN c w.r.t. the clothed human from I. To improve the global side-view geometry, we introduce a Side-View Normal Discriminator that distinguishes between ˆNc and ground truth normal maps. Moreover, to enhance local surface consistency, we employ a multi-to-one gradient computation combined with a coarse-to-fine strategy. By integrating the gradients of nearby points around p, we smooth out local irregularities, leading to consistent surface reconstruction.
+              Overview of our CHRIS. Conditioned on a single-view image $\mathcal{I}$ and the corresponding SMPL-X $\mathcal{M}$, we sample 3D points $\mathbf{P}$, obtaining their features regarding the geometry of the 3D clothed human. Then, we obtain the SDF $\hat{\mathcal{S}}$ and the corresponding side-view normal maps $\hat{\mathcal{N}}^c$ w.r.t. the clothed human from $\mathcal{I}$. To improve the global side-view geometry, we introduce a Side-View Normal Discriminator that distinguishes between $\hat{\mathcal{N}}^c$ and ground truth normal maps. Moreover, to enhance local surface consistency, we employ a multi-to-one gradient computation (M2O) combined with a coarse-to-fine strategy. By integrating the gradients of nearby points around $\mathcal{p}$, we smooth out local irregularities, leading to consistent surface reconstruction.
             </p>
           </div>
         </div>
@@ -113,6 +113,126 @@
   <section class="section">
     <div class="container is-max-desktop">
       <h3 class="title is-4 has-text-centered">Animation Examples</h3>
+
+
+      <div class="columns">
+        <!-- First Column for Video and Content -->
+        <div class="column">
+          <div class="content has-text-centered">
+            <!-- <h2 class="title is-3">Animation Examples</h2> -->
+            <!-- <video id="dollyzoom1" autoplay controls muted loop playsinline style="width:512px; height:auto;">
+              <source src="static/myvideos/H1_Baseball_Hit.mp4" type="video/mp4">
+            </video> -->
+            <img src="static\images\h3_cloth.png" alt="Descriptive text about the image"
+              style="width:100%; height:auto;">
+            <p>
+              Input Image
+            </p>
+          </div>
+        </div>
+        <!-- First Column for Video and Content -->
+        <div class="column">
+          <div class="content has-text-centered">
+            <!-- <h2 class="title is-3">Animation Examples</h2> -->
+            <video id="dollyzoom1" autoplay controls muted loop playsinline style="width:100%; height:auto;">
+              <source src="static\myvideos\H3_Jumping_Down.mp4" type="video/mp4">
+            </video>
+            <!-- <img src="static/myvideos/ablation_sub_figure.png" alt="Descriptive text about the image"
+              style="width:100%; height:auto;"> -->
+            <p>
+              <em>"Jumping Down"</em>
+            </p>
+          </div>
+        </div>
+
+        <!-- First Column for Video and Content -->
+        <div class="column">
+          <div class="content has-text-centered">
+            <!-- <h2 class="title is-3">Animation Examples</h2> -->
+            <video id="dollyzoom2" autoplay controls muted loop playsinline style="width:100%; height:auto;">
+              <source src="static\myvideos\H3_Seated_Idle.mp4" type="video/mp4">
+            </video>
+            <!-- <img src="static/myvideos/ablation_sub_figure.png" alt="Descriptive text about the image"
+              style="width:100%; height:auto;"> -->
+            <p>
+              <em>"Seated Idle"</em>
+            </p>
+          </div>
+        </div>
+
+        <!-- Second Column for Video and Content -->
+        <div class="column">
+          <div class="content has-text-centered">
+            <!-- <h2 class="title is-3">Ablation Studies</h2> -->
+            <video id="dollyzoom3" autoplay controls muted loop playsinline style="width:100%; height:auto;">
+              <source src="static\myvideos\H3_Silly_Dancing.mp4" type="video/mp4">
+            </video>
+            <p>
+              <em>"Silly Dancing"</em>
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="columns">
+        <!-- First Column for Video and Content -->
+        <div class="column">
+          <div class="content has-text-centered">
+            <!-- <h2 class="title is-3">Animation Examples</h2> -->
+            <!-- <video id="dollyzoom1" autoplay controls muted loop playsinline style="width:512px; height:auto;">
+              <source src="static/myvideos/H1_Baseball_Hit.mp4" type="video/mp4">
+            </video> -->
+            <img src="static\images\h2_cloth.png" alt="Descriptive text about the image"
+              style="width:100%; height:auto;">
+            <p>
+              Input Image
+            </p>
+          </div>
+        </div>
+        <!-- First Column for Video and Content -->
+        <div class="column">
+          <div class="content has-text-centered">
+            <!-- <h2 class="title is-3">Animation Examples</h2> -->
+            <video id="dollyzoom1" autoplay controls muted loop playsinline style="width:100%; height:auto;">
+              <source src="static\myvideos\H2_Falling.mp4" type="video/mp4">
+            </video>
+            <!-- <img src="static/myvideos/ablation_sub_figure.png" alt="Descriptive text about the image"
+              style="width:100%; height:auto;"> -->
+            <p>
+              <em>"Falling"</em>
+            </p>
+          </div>
+        </div>
+
+        <!-- First Column for Video and Content -->
+        <div class="column">
+          <div class="content has-text-centered">
+            <!-- <h2 class="title is-3">Animation Examples</h2> -->
+            <video id="dollyzoom2" autoplay controls muted loop playsinline style="width:100%; height:auto;">
+              <source src="static\myvideos\H2_Sitting_Thumbs_Up.mp4" type="video/mp4">
+            </video>
+            <!-- <img src="static/myvideos/ablation_sub_figure.png" alt="Descriptive text about the image"
+              style="width:100%; height:auto;"> -->
+            <p>
+              <em>"Sitting Thumbs Up"</em>
+            </p>
+          </div>
+        </div>
+
+        <!-- Second Column for Video and Content -->
+        <div class="column">
+          <div class="content has-text-centered">
+            <!-- <h2 class="title is-3">Ablation Studies</h2> -->
+            <video id="dollyzoom3" autoplay controls muted loop playsinline style="width:100%; height:auto;">
+              <source src="static\myvideos\H2_Spin_In_Place.mp4" type="video/mp4">
+            </video>
+            <p>
+              <em>"Spin In Place"</em>
+            </p>
+          </div>
+        </div>
+      </div>
+
       <div class="columns">
         <!-- First Column for Video and Content -->
         <div class="column">
@@ -133,7 +253,7 @@
           <div class="content has-text-centered">
             <!-- <h2 class="title is-3">Animation Examples</h2> -->
             <video id="dollyzoom1" autoplay controls muted loop playsinline style="width:100%; height:auto;">
-              <source src="static/myvideos/H1_Baseball_Hit2.mp4" type="video/mp4">
+              <source src="static/myvideos/H1_Baseball_Hit.mp4" type="video/mp4">
             </video>
             <!-- <img src="static/myvideos/ablation_sub_figure.png" alt="Descriptive text about the image"
               style="width:100%; height:auto;"> -->
@@ -148,12 +268,12 @@
           <div class="content has-text-centered">
             <!-- <h2 class="title is-3">Animation Examples</h2> -->
             <video id="dollyzoom2" autoplay controls muted loop playsinline style="width:100%; height:auto;">
-              <source src="static/myvideos/H1_Falling_To_Roll.mp4" type="video/mp4">
+              <source src="static\myvideos\H1_Kidney_Hit.mp4" type="video/mp4">
             </video>
             <!-- <img src="static/myvideos/ablation_sub_figure.png" alt="Descriptive text about the image"
               style="width:100%; height:auto;"> -->
             <p>
-              <em>"Falling To Roll"</em>
+              <em>"Kidney Hit"</em>
             </p>
           </div>
         </div>
@@ -163,39 +283,15 @@
           <div class="content has-text-centered">
             <!-- <h2 class="title is-3">Ablation Studies</h2> -->
             <video id="dollyzoom3" autoplay controls muted loop playsinline style="width:100%; height:auto;">
-              <source src="static/myvideos/output_ablation3.mp4" type="video/mp4">
+              <source src="static\myvideos\H1_Swimming.mp4" type="video/mp4">
             </video>
-            <img src="static/myvideos/ablation_sub_figure.png" alt="Descriptive text about the image"
-              style="width:100%; height:auto;">
             <p>
-              Our proposed Focal view-dependent SDS mitigates the Janus problem (Row 2:~(a) vs (b)) while the focal
-              depth loss recovers plausible hands ((b) vs (c)).
+              <em>"Swimming"</em>
             </p>
           </div>
         </div>
       </div>
-    </div>
-  </section>
 
-
-  <section class="section">
-    <div class="container is-max-desktop">
-      <!-- Re-rendering. -->
-      <h3 class="title is-4 has-text-centered">Animation Examples</h3>
-      <div class="content has-text-justified">
-      </div>
-      <div class="content has-text-centered">
-        <video id="replay-video" autoplay controls muted loop playsinline style="width:100%; height:auto;">
-          <source src="static/myvideos/lambda1_focaldepthloss.mp4" type="video/mp4">
-        </video>
-        <img src="static/myvideos/lossratio.png"
-          alt="Graph showing the effects of different loss ratios on hand recovery clarity"
-          style="width:100%; height:auto;">
-        <p>
-          We demomstrate the animation of 3D clothed human reconstructed by our CHRIS. With the single mesh and the motion series, we are able to generate animatable video. 
-        </p>
-      </div>
-      <!--/ Re-rendering. -->
     </div>
   </section>
 
